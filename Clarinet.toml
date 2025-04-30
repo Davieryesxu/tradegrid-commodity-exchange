@@ -8,6 +8,10 @@ requirements = []
 path = "contracts/tradegrid-commodity.clar"
 depends_on = []
 
+[contracts.tradegrid-reputation]
+path = "contracts/tradegrid-reputation.clar"
+depends_on = []
+
 [repl]
 costs_version = 2
 parser_version = 2
